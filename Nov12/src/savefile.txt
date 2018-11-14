@@ -1,0 +1,4 @@
+win : 10 
+drow : 20
+lose : 20
+total : 50
